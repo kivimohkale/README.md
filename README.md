@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=40F1F7&center=true&width=435&lines=yetablet)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=40F1F7&center=true&width=435&lines=kivimohkale)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=kivimohkale&style=flat-square&color=03f0fc" alt="Profile views"/>
 
